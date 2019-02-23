@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\668_MethodWithStringParameterAndReturnType_\bin\Debug\668_MethodWithStringParameterAndReturnType_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\668_MethodWithStringParameterAndReturnType_\bin\Debug\668_MethodWithStringParameterAndReturnType_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\668_MethodWithStringParameterAndReturnType_\bin\Debug\668_MethodWithStringParameterAndReturnType_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\668_MethodWithStringParameterAndReturnType_\obj\Debug\668_MethodWithStringParameterAndReturnType_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\668_MethodWithStringParameterAndReturnType_\obj\Debug\668_MethodWithStringParameterAndReturnType_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\668_MethodWithStringParameterAndReturnType_\obj\Debug\668_MethodWithStringParameterAndReturnType_.pdb

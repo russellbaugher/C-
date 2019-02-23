@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\881_StepThruArrayWithForLoop\bin\Debug\881_StepThruArrayWithForLoop.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\881_StepThruArrayWithForLoop\bin\Debug\881_StepThruArrayWithForLoop.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\881_StepThruArrayWithForLoop\bin\Debug\881_StepThruArrayWithForLoop.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\881_StepThruArrayWithForLoop\obj\Debug\881_StepThruArrayWithForLoop.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\881_StepThruArrayWithForLoop\obj\Debug\881_StepThruArrayWithForLoop.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\881_StepThruArrayWithForLoop\obj\Debug\881_StepThruArrayWithForLoop.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\881_StepThruArrayWithForLoop\obj\Debug\881_StepThruArrayWithForLoop.pdb

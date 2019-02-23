@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\672_MethodWithListReturnEnumerable_\bin\Debug\672_MethodWithListReturnEnumerable_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\672_MethodWithListReturnEnumerable_\bin\Debug\672_MethodWithListReturnEnumerable_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\672_MethodWithListReturnEnumerable_\bin\Debug\672_MethodWithListReturnEnumerable_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\672_MethodWithListReturnEnumerable_\obj\Debug\672_MethodWithListReturnEnumerable_.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\672_MethodWithListReturnEnumerable_\obj\Debug\672_MethodWithListReturnEnumerable_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\672_MethodWithListReturnEnumerable_\obj\Debug\672_MethodWithListReturnEnumerable_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\672_MethodWithListReturnEnumerable_\obj\Debug\672_MethodWithListReturnEnumerable_.pdb

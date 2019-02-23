@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\664_MethodsWithExceptions_\obj\Debug\664_MethodsWithExceptions_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\664_MethodsWithExceptions_\bin\Debug\664_MethodsWithExceptions_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\664_MethodsWithExceptions_\bin\Debug\664_MethodsWithExceptions_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\664_MethodsWithExceptions_\bin\Debug\664_MethodsWithExceptions_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\664_MethodsWithExceptions_\obj\Debug\664_MethodsWithExceptions_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\664_MethodsWithExceptions_\obj\Debug\664_MethodsWithExceptions_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\664_MethodsWithExceptions_\obj\Debug\664_MethodsWithExceptions_.csprojAssemblyReference.cache

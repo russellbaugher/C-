@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\657_GetSetProperties\bin\Debug\657_GetSetProperties.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\657_GetSetProperties\bin\Debug\657_GetSetProperties.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\657_GetSetProperties\bin\Debug\657_GetSetProperties.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\657_GetSetProperties\obj\Debug\658_MethodWIthOneParameterReturn.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\657_GetSetProperties\obj\Debug\657_GetSetProperties.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\657_GetSetProperties\obj\Debug\657_GetSetProperties.pdb

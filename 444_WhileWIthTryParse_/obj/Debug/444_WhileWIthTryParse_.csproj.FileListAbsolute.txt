@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\444_WhileWIthTryParse_\obj\Debug\444_WhileWIthTryParse_.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\444_WhileWIthTryParse_\obj\Debug\444_WhileWIthTryParse_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\444_WhileWIthTryParse_\bin\Debug\444_WhileWIthTryParse_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\444_WhileWIthTryParse_\bin\Debug\444_WhileWIthTryParse_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\444_WhileWIthTryParse_\bin\Debug\444_WhileWIthTryParse_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\444_WhileWIthTryParse_\obj\Debug\444_WhileWIthTryParse_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\444_WhileWIthTryParse_\obj\Debug\444_WhileWIthTryParse_.pdb

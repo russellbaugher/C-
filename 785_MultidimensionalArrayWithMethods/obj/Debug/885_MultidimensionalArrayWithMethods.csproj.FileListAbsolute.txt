@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\785_MultidimensionalArrayWithMethods\bin\Debug\785_MultidimensionalArrayWithMethods.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\785_MultidimensionalArrayWithMethods\bin\Debug\785_MultidimensionalArrayWithMethods.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\785_MultidimensionalArrayWithMethods\bin\Debug\785_MultidimensionalArrayWithMethods.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\785_MultidimensionalArrayWithMethods\obj\Debug\885_MultidimensionalArrayWithMethods.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\785_MultidimensionalArrayWithMethods\obj\Debug\785_MultidimensionalArrayWithMethods.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\785_MultidimensionalArrayWithMethods\obj\Debug\785_MultidimensionalArrayWithMethods.pdb

@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\431_WhileLoop\bin\Debug\431_WhileLoop.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\431_WhileLoop\bin\Debug\431_WhileLoop.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\431_WhileLoop\bin\Debug\431_WhileLoop.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\431_WhileLoop\obj\Debug\431_WhileLoop.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\431_WhileLoop\obj\Debug\431_WhileLoop.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\431_WhileLoop\obj\Debug\431_WhileLoop.pdb

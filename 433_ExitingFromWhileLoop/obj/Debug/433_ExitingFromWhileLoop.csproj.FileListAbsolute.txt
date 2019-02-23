@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\433_ExitingFromWhileLoop\bin\Debug\433_ExitingFromWhileLoop.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\433_ExitingFromWhileLoop\bin\Debug\433_ExitingFromWhileLoop.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\433_ExitingFromWhileLoop\bin\Debug\433_ExitingFromWhileLoop.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\433_ExitingFromWhileLoop\obj\Debug\433_ExitingFromWhileLoop.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\433_ExitingFromWhileLoop\obj\Debug\433_ExitingFromWhileLoop.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\433_ExitingFromWhileLoop\obj\Debug\433_ExitingFromWhileLoop.pdb

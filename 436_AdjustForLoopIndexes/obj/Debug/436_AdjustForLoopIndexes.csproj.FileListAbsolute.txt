@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\436_AdjustForLoopIndexes\bin\Debug\436_AdjustForLoopIndexes.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\436_AdjustForLoopIndexes\bin\Debug\436_AdjustForLoopIndexes.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\436_AdjustForLoopIndexes\bin\Debug\436_AdjustForLoopIndexes.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\436_AdjustForLoopIndexes\obj\Debug\436_AdjustForLoopIndexes.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\436_AdjustForLoopIndexes\obj\Debug\436_AdjustForLoopIndexes.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\436_AdjustForLoopIndexes\obj\Debug\436_AdjustForLoopIndexes.pdb

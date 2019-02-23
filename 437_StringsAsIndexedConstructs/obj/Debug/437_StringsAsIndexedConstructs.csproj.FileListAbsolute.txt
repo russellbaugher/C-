@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\437_StringsAsIndexedConstructs\bin\Debug\437_StringsAsIndexedConstructs.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\437_StringsAsIndexedConstructs\bin\Debug\437_StringsAsIndexedConstructs.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\437_StringsAsIndexedConstructs\bin\Debug\437_StringsAsIndexedConstructs.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\437_StringsAsIndexedConstructs\obj\Debug\437_StringsAsIndexedConstructs.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\437_StringsAsIndexedConstructs\obj\Debug\437_StringsAsIndexedConstructs.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\437_StringsAsIndexedConstructs\obj\Debug\437_StringsAsIndexedConstructs.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\437_StringsAsIndexedConstructs\obj\Debug\437_StringsAsIndexedConstructs.pdb

@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\788_CreatePrintJaggedArrays\obj\Debug\788_CreatePrintJaggedArrays.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\788_CreatePrintJaggedArrays\bin\Debug\788_CreatePrintJaggedArrays.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\788_CreatePrintJaggedArrays\bin\Debug\788_CreatePrintJaggedArrays.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\788_CreatePrintJaggedArrays\bin\Debug\788_CreatePrintJaggedArrays.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\788_CreatePrintJaggedArrays\obj\Debug\788_CreatePrintJaggedArrays.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\788_CreatePrintJaggedArrays\obj\Debug\788_CreatePrintJaggedArrays.pdb

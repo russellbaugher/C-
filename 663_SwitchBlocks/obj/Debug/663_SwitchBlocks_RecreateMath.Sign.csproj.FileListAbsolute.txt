@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\663_SwitchBlocks\bin\Debug\663_SwitchBlocks.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\663_SwitchBlocks\bin\Debug\663_SwitchBlocks.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\663_SwitchBlocks\bin\Debug\663_SwitchBlocks.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\663_SwitchBlocks\obj\Debug\663_SwitchBlocks_RecreateMath.Sign.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\663_SwitchBlocks\obj\Debug\663_SwitchBlocks.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\663_SwitchBlocks\obj\Debug\663_SwitchBlocks.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\663_SwitchBlocks\obj\Debug\663_SwitchBlocks_RecreateMath.Sign.csprojAssemblyReference.cache

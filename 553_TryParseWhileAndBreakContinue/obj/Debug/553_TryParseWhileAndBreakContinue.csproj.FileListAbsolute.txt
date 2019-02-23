@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\553_TryParseWhileAndBreakContinue\bin\Debug\553_TryParseWhileAndBreakContinue.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\553_TryParseWhileAndBreakContinue\bin\Debug\553_TryParseWhileAndBreakContinue.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\553_TryParseWhileAndBreakContinue\bin\Debug\553_TryParseWhileAndBreakContinue.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\553_TryParseWhileAndBreakContinue\obj\Debug\553_TryParseWhileAndBreakContinue.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\553_TryParseWhileAndBreakContinue\obj\Debug\553_TryParseWhileAndBreakContinue.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\553_TryParseWhileAndBreakContinue\obj\Debug\553_TryParseWhileAndBreakContinue.pdb

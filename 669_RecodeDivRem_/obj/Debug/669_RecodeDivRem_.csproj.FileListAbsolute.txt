@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\669_RecodeDivRem_\obj\Debug\669_RecodeDivRem_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\669_RecodeDivRem_\bin\Debug\669_RecodeDivRem_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\669_RecodeDivRem_\bin\Debug\669_RecodeDivRem_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\669_RecodeDivRem_\bin\Debug\669_RecodeDivRem_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\669_RecodeDivRem_\obj\Debug\669_RecodeDivRem_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\669_RecodeDivRem_\obj\Debug\669_RecodeDivRem_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\669_RecodeDivRem_\obj\Debug\669_RecodeDivRem_.csprojAssemblyReference.cache

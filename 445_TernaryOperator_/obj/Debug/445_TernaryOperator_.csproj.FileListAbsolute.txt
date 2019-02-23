@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\445_TernaryOperator_\obj\Debug\445_TernaryOperator_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\445_TernaryOperator_\bin\Debug\445_TernaryOperator_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\445_TernaryOperator_\bin\Debug\445_TernaryOperator_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\445_TernaryOperator_\bin\Debug\445_TernaryOperator_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\445_TernaryOperator_\obj\Debug\445_TernaryOperator_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\445_TernaryOperator_\obj\Debug\445_TernaryOperator_.pdb

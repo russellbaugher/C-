@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\430_CompoundOperators\bin\Debug\430_CompoundOperators.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\430_CompoundOperators\bin\Debug\430_CompoundOperators.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\430_CompoundOperators\bin\Debug\430_CompoundOperators.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\430_CompoundOperators\obj\Debug\430_CompoundOperators.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\430_CompoundOperators\obj\Debug\430_CompoundOperators.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\430_CompoundOperators\obj\Debug\430_CompoundOperators.pdb

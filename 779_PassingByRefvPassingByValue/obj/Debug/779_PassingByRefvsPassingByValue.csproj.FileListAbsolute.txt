@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\779_PassingByRefvPassingByValue\bin\Debug\779_PassingByRefvPassingByValue.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\779_PassingByRefvPassingByValue\bin\Debug\779_PassingByRefvPassingByValue.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\779_PassingByRefvPassingByValue\bin\Debug\779_PassingByRefvPassingByValue.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\779_PassingByRefvPassingByValue\obj\Debug\779_PassingByRefvsPassingByValue.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\779_PassingByRefvPassingByValue\obj\Debug\779_PassingByRefvPassingByValue.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\779_PassingByRefvPassingByValue\obj\Debug\779_PassingByRefvPassingByValue.pdb

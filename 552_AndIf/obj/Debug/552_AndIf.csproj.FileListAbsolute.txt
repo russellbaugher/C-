@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\552_AndIf\bin\Debug\552_AndIf.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\552_AndIf\bin\Debug\552_AndIf.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\552_AndIf\bin\Debug\552_AndIf.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\552_AndIf\obj\Debug\552_AndIf.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\552_AndIf\obj\Debug\552_AndIf.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\552_AndIf\obj\Debug\552_AndIf.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\552_AndIf\obj\Debug\552_AndIf.pdb

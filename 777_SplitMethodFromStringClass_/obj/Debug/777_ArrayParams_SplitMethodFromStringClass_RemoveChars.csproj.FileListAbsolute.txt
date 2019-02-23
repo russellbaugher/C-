@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\777_SplitMethodFromStringClass_\bin\Debug\777_SplitMethodFromStringClass_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\777_SplitMethodFromStringClass_\bin\Debug\777_SplitMethodFromStringClass_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\777_SplitMethodFromStringClass_\bin\Debug\777_SplitMethodFromStringClass_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\777_SplitMethodFromStringClass_\obj\Debug\777_ArrayParams_SplitMethodFromStringClass_RemoveChars.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\777_SplitMethodFromStringClass_\obj\Debug\777_ArrayParams_SplitMethodFromStringClass_RemoveChars.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\777_SplitMethodFromStringClass_\obj\Debug\777_SplitMethodFromStringClass_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\777_SplitMethodFromStringClass_\obj\Debug\777_SplitMethodFromStringClass_.pdb

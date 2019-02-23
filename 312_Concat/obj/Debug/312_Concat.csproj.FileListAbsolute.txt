@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\312_Concat\bin\Debug\312_Concat.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\312_Concat\bin\Debug\312_Concat.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\312_Concat\bin\Debug\312_Concat.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\312_Concat\obj\Debug\312_Concat.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\312_Concat\obj\Debug\312_Concat.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\312_Concat\obj\Debug\312_Concat.pdb

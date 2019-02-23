@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\883_DefineTwoDimensionalArrayWithManualIndexes\bin\Debug\883_DefineTwoDimensionalArrayWithManualIndexes.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\883_DefineTwoDimensionalArrayWithManualIndexes\bin\Debug\883_DefineTwoDimensionalArrayWithManualIndexes.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\883_DefineTwoDimensionalArrayWithManualIndexes\bin\Debug\883_DefineTwoDimensionalArrayWithManualIndexes.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\883_DefineTwoDimensionalArrayWithManualIndexes\obj\Debug\883_DefineTwoDimensionalArrayWithManualIndexes.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\883_DefineTwoDimensionalArrayWithManualIndexes\obj\Debug\883_DefineTwoDimensionalArrayWithManualIndexes.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\883_DefineTwoDimensionalArrayWithManualIndexes\obj\Debug\883_DefineTwoDimensionalArrayWithManualIndexes.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\883_DefineTwoDimensionalArrayWithManualIndexes\obj\Debug\883_DefineTwoDimensionalArrayWithManualIndexes.pdb

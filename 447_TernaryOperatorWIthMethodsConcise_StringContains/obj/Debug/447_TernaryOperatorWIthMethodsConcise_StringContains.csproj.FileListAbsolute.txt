@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\447_TernaryOperatorWIthMethodsConcise_StringContains\bin\Debug\447_TernaryOperatorWIthMethodsConcise_StringContains.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\447_TernaryOperatorWIthMethodsConcise_StringContains\bin\Debug\447_TernaryOperatorWIthMethodsConcise_StringContains.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\447_TernaryOperatorWIthMethodsConcise_StringContains\bin\Debug\447_TernaryOperatorWIthMethodsConcise_StringContains.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\447_TernaryOperatorWIthMethodsConcise_StringContains\obj\Debug\447_TernaryOperatorWIthMethodsConcise_StringContains.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\447_TernaryOperatorWIthMethodsConcise_StringContains\obj\Debug\447_TernaryOperatorWIthMethodsConcise_StringContains.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\447_TernaryOperatorWIthMethodsConcise_StringContains\obj\Debug\447_TernaryOperatorWIthMethodsConcise_StringContains.pdb

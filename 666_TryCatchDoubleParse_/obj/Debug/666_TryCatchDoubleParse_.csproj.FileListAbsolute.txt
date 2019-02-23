@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\666_TryCatchDoubleParse_\obj\Debug\666_TryCatchDoubleParse_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\666_TryCatchDoubleParse_\bin\Debug\666_TryCatchDoubleParse_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\666_TryCatchDoubleParse_\bin\Debug\666_TryCatchDoubleParse_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\666_TryCatchDoubleParse_\bin\Debug\666_TryCatchDoubleParse_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\666_TryCatchDoubleParse_\obj\Debug\666_TryCatchDoubleParse_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\666_TryCatchDoubleParse_\obj\Debug\666_TryCatchDoubleParse_.pdb

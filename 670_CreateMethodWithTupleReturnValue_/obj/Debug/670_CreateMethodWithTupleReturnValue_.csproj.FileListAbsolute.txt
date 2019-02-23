@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\670_CreateMethodWithTupleReturnValue_\bin\Debug\670_CreateMethodWithTupleReturnValue_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\670_CreateMethodWithTupleReturnValue_\bin\Debug\670_CreateMethodWithTupleReturnValue_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\670_CreateMethodWithTupleReturnValue_\bin\Debug\670_CreateMethodWithTupleReturnValue_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\670_CreateMethodWithTupleReturnValue_\obj\Debug\670_CreateMethodWithTupleReturnValue_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\670_CreateMethodWithTupleReturnValue_\obj\Debug\670_CreateMethodWithTupleReturnValue_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\670_CreateMethodWithTupleReturnValue_\obj\Debug\670_CreateMethodWithTupleReturnValue_.pdb

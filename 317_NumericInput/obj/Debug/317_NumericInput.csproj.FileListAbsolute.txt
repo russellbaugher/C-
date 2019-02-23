@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\317_NumericInput\bin\Debug\317_NumericInput.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\317_NumericInput\bin\Debug\317_NumericInput.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\317_NumericInput\bin\Debug\317_NumericInput.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\317_NumericInput\obj\Debug\317_NumericInput.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\317_NumericInput\obj\Debug\317_NumericInput.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\317_NumericInput\obj\Debug\317_NumericInput.pdb

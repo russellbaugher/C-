@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\443_ListsWithForEach\bin\Debug\443_ListsWithForEach.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\443_ListsWithForEach\bin\Debug\443_ListsWithForEach.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\443_ListsWithForEach\bin\Debug\443_ListsWithForEach.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\443_ListsWithForEach\obj\Debug\443_ListsWithForEach.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\443_ListsWithForEach\obj\Debug\443_ListsWithForEach.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\443_ListsWithForEach\obj\Debug\443_ListsWithForEach.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\443_ListsWithForEach\obj\Debug\443_ListsWithForEach.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\555_MultipleOrsForEach\bin\Debug\555_MultipleOrsForEach.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\555_MultipleOrsForEach\bin\Debug\555_MultipleOrsForEach.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\555_MultipleOrsForEach\bin\Debug\555_MultipleOrsForEach.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\555_MultipleOrsForEach\obj\Debug\555_MultipleOrsForEach_VowelSearch.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\555_MultipleOrsForEach\obj\Debug\555_MultipleOrsForEach_VowelSearch.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\555_MultipleOrsForEach\obj\Debug\555_MultipleOrsForEach.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\555_MultipleOrsForEach\obj\Debug\555_MultipleOrsForEach.pdb

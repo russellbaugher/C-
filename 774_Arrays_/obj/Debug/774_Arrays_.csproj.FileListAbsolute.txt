@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\774_Arrays_\bin\Debug\774_Arrays_.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\774_Arrays_\bin\Debug\774_Arrays_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\774_Arrays_\bin\Debug\774_Arrays_.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\774_Arrays_\obj\Debug\774_Arrays_.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\774_Arrays_\obj\Debug\774_Arrays_.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\774_Arrays_\obj\Debug\774_Arrays_.pdb

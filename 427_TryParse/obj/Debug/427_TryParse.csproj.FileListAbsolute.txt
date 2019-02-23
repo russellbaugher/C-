@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\427_TryParse\bin\Debug\427_TryParse.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\427_TryParse\bin\Debug\427_TryParse.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\427_TryParse\bin\Debug\427_TryParse.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\427_TryParse\obj\Debug\427_TryParse.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\427_TryParse\obj\Debug\427_TryParse.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\427_TryParse\obj\Debug\427_TryParse.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\427_TryParse\obj\Debug\427_TryParse.csprojAssemblyReference.cache

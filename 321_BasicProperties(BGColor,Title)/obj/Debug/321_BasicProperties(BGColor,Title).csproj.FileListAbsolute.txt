@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\321_BasicProperties(BGColor,Title)\bin\Debug\321_BasicProperties(BGColor,Title).exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\321_BasicProperties(BGColor,Title)\bin\Debug\321_BasicProperties(BGColor,Title).exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\321_BasicProperties(BGColor,Title)\bin\Debug\321_BasicProperties(BGColor,Title).pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\321_BasicProperties(BGColor,Title)\obj\Debug\321_BasicProperties(BGColor,Title).csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\321_BasicProperties(BGColor,Title)\obj\Debug\321_BasicProperties(BGColor,Title).exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\321_BasicProperties(BGColor,Title)\obj\Debug\321_BasicProperties(BGColor,Title).pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\321_BasicProperties(BGColor,Title)\obj\Debug\321_BasicProperties(BGColor,Title).csprojAssemblyReference.cache

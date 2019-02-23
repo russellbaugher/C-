@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\315_AcceptString\bin\Debug\315_AcceptString.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\315_AcceptString\bin\Debug\315_AcceptString.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\315_AcceptString\bin\Debug\315_AcceptString.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\315_AcceptString\obj\Debug\315_AcceptStringInputProdOutput.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\315_AcceptString\obj\Debug\315_AcceptString.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\315_AcceptString\obj\Debug\315_AcceptString.pdb

@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\320_MethodChaining\bin\Debug\320_MethodChaining.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\320_MethodChaining\bin\Debug\320_MethodChaining.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\320_MethodChaining\bin\Debug\320_MethodChaining.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\320_MethodChaining\obj\Debug\320_MethodChaining.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\320_MethodChaining\obj\Debug\320_MethodChaining.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\320_MethodChaining\obj\Debug\320_MethodChaining.pdb

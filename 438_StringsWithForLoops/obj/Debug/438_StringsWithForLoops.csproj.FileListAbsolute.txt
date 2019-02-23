@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\438_StringsWithForLoops\bin\Debug\438_StringsWithForLoops.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\438_StringsWithForLoops\bin\Debug\438_StringsWithForLoops.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\438_StringsWithForLoops\bin\Debug\438_StringsWithForLoops.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\438_StringsWithForLoops\obj\Debug\438_StringsWithForLoops.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\438_StringsWithForLoops\obj\Debug\438_StringsWithForLoops.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\438_StringsWithForLoops\obj\Debug\438_StringsWithForLoops.pdb

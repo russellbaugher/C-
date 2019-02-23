@@ -1,0 +1,7 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\440_StringBehaviorInMemory\bin\Debug\440_StringBehaviorInMemory.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\440_StringBehaviorInMemory\bin\Debug\440_StringBehaviorInMemory.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\440_StringBehaviorInMemory\bin\Debug\440_StringBehaviorInMemory.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\440_StringBehaviorInMemory\obj\Debug\440_StringBehaviorInMemory.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\440_StringBehaviorInMemory\obj\Debug\440_StringBehaviorInMemory.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\440_StringBehaviorInMemory\obj\Debug\440_StringBehaviorInMemory.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\440_StringBehaviorInMemory\obj\Debug\440_StringBehaviorInMemory.pdb

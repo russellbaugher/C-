@@ -1,0 +1,6 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\778_ArraysListsRefs\bin\Debug\778_ArraysListsRefs.exe.config
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\778_ArraysListsRefs\bin\Debug\778_ArraysListsRefs.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\778_ArraysListsRefs\bin\Debug\778_ArraysListsRefs.pdb
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\778_ArraysListsRefs\obj\Debug\778_ArraysListsRefsMemory.csproj.CoreCompileInputs.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\778_ArraysListsRefs\obj\Debug\778_ArraysListsRefs.exe
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\778_ArraysListsRefs\obj\Debug\778_ArraysListsRefs.pdb

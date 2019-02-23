@@ -1,0 +1,2 @@
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\MethodWithTupleReturnValue\obj\Debug\MethodWithTupleReturnValue.csprojAssemblyReference.cache
+E:\SCHOOL\COP2360\C# TUTORIALS\C# Exercises\Exercises\MethodWithTupleReturnValue\obj\Debug\MethodWithTupleReturnValue.csproj.CoreCompileInputs.cache
